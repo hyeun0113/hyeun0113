@@ -8,8 +8,8 @@ fl<div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
+  #### :raising_hand: I am a backend student.<br/>
+  #### :fire: I aim to become a backend developer.<br/>
   #### :mortar_board: ...
   <br/>
   <br/>
